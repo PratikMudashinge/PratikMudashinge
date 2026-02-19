@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Pratik
+
+💻 I am learning Web Development
+🚀 Currently building Education Gaming System
+🌱 Learning: HTML, CSS, JavaScript, Node.js
+🎯 Goal: Become Full Stack Developer
+
+## My Projects
+- Education Gaming Website
+- Daily Coding Challenges
 
 <!--
 **PratikMudashinge/PratikMudashinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
