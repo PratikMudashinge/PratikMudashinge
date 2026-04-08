@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about Web Development  
+- 💻 Passionate about software Development  
 - 🌱 Currently Learning: HTML, CSS, JavaScript, Node.js, MySQL  
 - 🎮 Building: Education Gaming System Website  
 - 🎯 Goal: Become a Professional Full Stack Developer  
